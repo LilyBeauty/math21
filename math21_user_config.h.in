@@ -1,0 +1,11 @@
+#pragma once
+
+#define IS_MATH21
+
+#cmakedefine MATH21_FLAG_RELEASE
+#cmakedefine MATH21_FLAG_USE_CUDA
+#cmakedefine MATH21_FLAG_USE_OPENMP
+#cmakedefine MATH21_FLAG_IS_WIN32
+#cmakedefine MATH21_FLAG_IS_ANDROID
+#cmakedefine MATH21_FLAG_IS_APPLE
+#cmakedefine MATH21_FLAG_IS_LINUX
